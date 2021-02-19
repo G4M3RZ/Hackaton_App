@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c62ec7bd4c0f46479bc07f2a922a969, type: 3}
+  m_Name: New_Question_Data
+  m_EditorClassIdentifier: 
+  _question: "\xBFCu\xE1l es la manera correcta de usar la mascarilla?"
+  _anwsers:
+  - {fileID: 21300000, guid: c75f1c87fa904c1448016f29e89d1709, type: 3}
+  - {fileID: 21300000, guid: 6b32f572ddffc234ba77425cdf1bfa60, type: 3}
+  - {fileID: 21300000, guid: 6b32f572ddffc234ba77425cdf1bfa60, type: 3}
+  - {fileID: 21300000, guid: 6b32f572ddffc234ba77425cdf1bfa60, type: 3}
